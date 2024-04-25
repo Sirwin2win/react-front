@@ -1,0 +1,10 @@
+.tu{
+    text-decoration: none;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#pic{
+    height: 50px;
+    width: 50;
+    border-radius: 50%;
+}
